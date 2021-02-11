@@ -1,6 +1,4 @@
-# inkscape-gimp-tailwindcss-palette
-
-Palette file with tailwindcss colors in .gpl format for inkscape/gimp
+# Palette file with tailwindcss colors in .gpl format for inkscape/gimp
 
 ![Screenshot of inkscape with the tailwind palette](https://raw.githubusercontent.com/kreako/inkscape-gimp-tailwindcss-palette/main/screenshot.png)
 
