@@ -10,9 +10,10 @@ Allow to produce visual elements or process graphics that will match your tailwi
 
 Copy the [palette file](https://raw.githubusercontent.com/kreako/inkscape-gimp-tailwindcss-palette/main/tailwind.gpl) in your inkscape/gimp palette directory.
 
-Under linux :
+For example, on my linux box :
 ```
 ~/.config/inkscape/palettes/
+~/.config/GIMP/2.10/palettes/
 ```
 
 ## Development
